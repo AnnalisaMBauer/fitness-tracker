@@ -30,7 +30,11 @@ This web application can be seen deployed on the following link...https://fitnes
 To contribute to the project please fork this repo and clone this project to your own machine. Commit any relevant changes to your own branch and push your work back up to your fork. Submit a pull request so that we can review your changes to be committed to the main branch.
 
 ## Images
+![image](https://user-images.githubusercontent.com/87721575/138014305-8e6fbfcd-a3e0-4a0b-b9bf-8e30c9ae88b3.png)
+
 ![image](https://user-images.githubusercontent.com/87721575/138005921-1e65b5e4-7f53-42eb-bf01-0f04254402d8.png)
+![image](https://user-images.githubusercontent.com/87721575/138014375-4637e20d-ecb4-4547-ad69-1a15358cf28a.png)
+
 
 
 
